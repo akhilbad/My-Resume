@@ -47,6 +47,8 @@ I'm actively seeking opportunities in **Data Analytics** and **Business Intellig
 - 🔗 GitHub: [github.com/akhilbad](https://github.com/akhilbad)
 - 📍 Location: Mumbai, India
 
+<img width="811" height="1055" alt="Screenshot 2026-02-10 222548" src="https://github.com/user-attachments/assets/ee3896ee-6c08-4a51-bce2-3b50d7733bcd" />
+
 ---
 
 ⭐ **Star this repository if you find it helpful!**
