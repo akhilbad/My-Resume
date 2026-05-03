@@ -62,6 +62,6 @@ I'm actively seeking opportunities in **Data Analytics** and **Business Intellig
 
 ⭐ **Star this repository if you find it helpful!**
 
-*Last Updated: February 2026*
+
 
 ---
