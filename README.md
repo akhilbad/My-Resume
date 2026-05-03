@@ -25,10 +25,17 @@ Data-driven analytics professional specializing in transforming raw data into ac
 
 ## 🛠️ Technical Skills
 
-**Data & Analytics:** Power BI • SQL • Advanced Excel • pandas • Matplotlib  
-**Programming:** Python • SQL • HTML • CSS  
-**Tools:** Git • GitHub • VS Code • Jupyter Notebook • Django  
-**Specializations:** Dashboard Development • ETL Automation • Data Visualization • Statistical Analysis
+**Programming Languages**: Python (pandas, NumPy, Matplotlib), SQL (querying, joins, CTEs, window functions),
+SAS (beginner), HTML, CSS
+**Data & Analytics Tools**: Power BI, Advanced Excel (pivot tables, macros, VBA, data modeling), PowerPoint, Looker
+(exposure)
+**Data Management**: ETL automation, Data integration, Data quality assurance, Master Data Management, SAP
+(fundamentals)
+**Developer Tools & Methodologies**: Git, GitHub, VS Code, Jupyter Notebook, Django (basic), Agile methodology
+(exposure)
+**Core Competencies**: Campaign Analytics, Performance Reporting, Dashboard Development, Customer Insights, Data
+Governance, Process Automation, Stakeholder Collaboration, Root Cause Analysis, Statistical Analysis, Data
+Visualizatio
 
 ## 🚀 Featured Projects
 
