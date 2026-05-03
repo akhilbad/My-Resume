@@ -48,7 +48,7 @@ I'm actively seeking opportunities in **Data Analytics** and **Business Intellig
 - 📍 Location: Mumbai, India
 - 📄 Resume: [AKHIL_RESUME.pdf](https://github.com/user-attachments/files/26906140/AKHIL_RESUME.pdf)
 
-<img width="819" height="1058" alt="image" src="https://github.com/user-attachments/assets/14eea0ac-1647-4e2d-9ea1-65b0dd4b94e4" />
+<img width="816" height="1057" alt="image" src="https://github.com/user-attachments/assets/e85ae1bd-c9b1-4ada-8fb2-be8e87e39647" />
 
 
 ---
