@@ -14,7 +14,7 @@
 
 This repository contains my latest resume, showcasing my experience and expertise in **Data Analytics**, **Data Management**, **Data Governance**, and **Business Intelligence**. I am a B.Tech graduate in Electronics & Telecommunication Engineering from St. Francis Institute of Technology, Mumbai.
 
-📥 **[Download Resume (PDF)](./AKHILESH_BADIGER_RESUME.pdf)**
+📥 **[Download Resume (PDF)]([./AKHILESH_BADIGER_RESUME.pdf](https://github.com/akhilbad/My-Resume/blob/main/Akhilesh_Badiger_RESUME_CP.pdf))**
 
 ---
 
