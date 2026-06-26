@@ -8,6 +8,8 @@
 
 ---
 
+<img width="748" height="1062" alt="Screenshot 2026-06-26 202215" src="https://github.com/user-attachments/assets/0c826ab4-8cec-4809-84d2-cc6f5d570ff4" />
+
 ## 📄 About
 
 This repository contains my latest resume, showcasing my experience and expertise in **Data Analytics**, **Data Management**, **Data Governance**, and **Business Intelligence**. I am a B.Tech graduate in Electronics & Telecommunication Engineering from St. Francis Institute of Technology, Mumbai.
@@ -122,5 +124,3 @@ I'm actively seeking opportunities in **Data Analytics**, **Data Management**, a
 ---
 
 ⭐ **Star this repository if you find it helpful!**
-
-*Last Updated: June 2026*
