@@ -8,6 +8,9 @@
 
 ---
 
+<img width="748" height="1062" alt="Screenshot 2026-06-26 202215" src="https://github.com/user-attachments/assets/3262b6e9-fa9d-4e7c-8ec7-358b5f787895" />
+
+
 ## 📄 About
 
 This repository contains my latest resume, showcasing my experience and expertise in **Business Analytics**, **Business Intelligence**, and **Dashboard Development**. I am a final-year B.Tech student actively seeking full-time roles and internships in Data Analytics and Business Intelligence.
